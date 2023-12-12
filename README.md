@@ -17,19 +17,30 @@ and much more…
 
 # column meaning
 **Store** : This column represents the store number or identifier. It is numerical and each number corresponds to a specific store.
+
 **Date**: Indicates the date of data collection or event, formatted as day-month-year.
+
 **Weekly_Sales**: A numerical value representing the total sales achieved in a week. The values are in decimal format, allowing for precise measurement of sales.
+
 **Holiday_Flag**: This is a binary flag indicating whether the given date was a holiday (1) or not (0).
+
 **Temperature**: Represents the temperature on that specific day, it’s in decimal format which allows for an accurate representation of the temperature.
+
 **Fuel_Price**: Indicates the price of fuel on that particular day, represented as a decimal number to provide precise values.
+
 **CPI**: Stands for Consumer Price Index, a measure that examines the average change over time in prices paid by consumers for goods and services. It’s also represented as a decimal number.
+
 **Unemployment**: This column shows unemployment rates, represented as decimals to provide detailed information.
 
  # OBSERVATION
 -2011 has recorded highest number of sales then followed by 2010 and 2012.
+
 -More than 50% of sales happen on Thursday.
+
 -Highest sales are recorded in April then followed by May, October, December ,September although their is little variance.
+
 -Most sales comes on non special holiday week which makes sense people may not want to spend their special grocery shopping they would probably shop before to celebrate their special holiday. Like for Christmas week, people go for shopping on weeks before.
+
 -All stores have equal number of sales yet store 20 has recorded highest sales.
 
 
