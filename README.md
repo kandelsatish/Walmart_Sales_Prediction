@@ -14,3 +14,5 @@ Managing the Steps of Supply Chain: The company optimizes the routes to the ship
 Optimizing Product Assortment: By analyzing customer preferences and shopping patterns, Walmart accelerates the decision-making on how to maintain stocks. Big Data provides insights on new items and discontinued products.
 Personalizing Shopping Experience: With Big Data, Walmart analyzes the shopping preferences of the customers to develop a consistent and delightful shopping experience.
 and much more…
+
++ hi
