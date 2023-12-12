@@ -1,6 +1,6 @@
 # About Dataset
 Walmart Inc. is an American multinational retail corporation that operates a chain of hypermarkets (also called supercenters), discount department stores, and grocery stores in the United States, headquartered in Bentonville, Arkansas. The company was founded by Sam Walton in nearby Rogers, Arkansas in 1962 and incorporated under Delaware General Corporation Law on October 31, 1969. It also owns and operates Sam's Club retail warehouses. In India, Walmart operates under the name of Flipkart Wholesale.
-<img src="https://github.com/kandelsatish/Walmart_Sales_Prediction/blob/main/static/images/Walmart-Widescreen%20(1).jpg" alt="alt text" width="500" height="600">
+<img src="https://github.com/kandelsatish/Walmart_Sales_Prediction/blob/main/static/images/hello_walmart.jpg" alt="alt text" width="500" height="600">
 
 As of July 31, 2022, Walmart has 10,585 stores and clubs in 24 countries, operating under 46 different names. Out of which we have chosen 45 stores for basic analysis.
 
