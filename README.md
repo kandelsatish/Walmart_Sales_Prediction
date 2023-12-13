@@ -15,7 +15,7 @@ Optimizing Product Assortment: By analyzing customer preferences and shopping pa
 Personalizing Shopping Experience: With Big Data, Walmart analyzes the shopping preferences of the customers to develop a consistent and delightful shopping experience.
 and much more…
 
-# column meaning:
+# Features Description:
 **Store** : This column represents the store number or identifier. It is numerical and each number corresponds to a specific store.
 
 **Date**: Indicates the date of data collection or event, formatted as day-month-year.
