@@ -34,7 +34,7 @@ and much more…
 
 **Unemployment**: This column shows unemployment rates, represented as decimals to provide detailed information.
 
-# OBSERVATION:
+# Observation:
 -2011 has recorded highest number of sales then followed by 2010 and 2012.
 
 -More than 50% of sales happen on Thursday.
