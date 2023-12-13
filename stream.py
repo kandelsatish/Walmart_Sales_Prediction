@@ -36,11 +36,11 @@ st.markdown(html_code, unsafe_allow_html=True)
 
 
 #load the trained ML model
-random_forest_reg_model = pickle.load(open('random_forest_reg_model.pkl','rb'))
-elasticnet_model = pickle.load(open('elasticnet_model.pkl','rb'))
-Lasso_regression_model = pickle.load(open('Lasso_regression_model.pkl','rb'))
-Ridge_regression_model = pickle.load(open('Ridge_regression_model.pkl','rb'))
-Linear_regression_model = pickle.load(open('Linear_regression_model.pkl','rb'))
+random_forest_reg_model = pickle.load(open(r'model/random_forest_reg_model.pkl','rb'))
+elasticnet_model = pickle.load(open(r'model/elasticnet_model.pkl','rb'))
+Lasso_regression_model = pickle.load(open(r'model/Lasso_regression_model.pkl','rb'))
+Ridge_regression_model = pickle.load(open(r'model/Ridge_regression_model.pkl','rb'))
+Linear_regression_model = pickle.load(open(r'model/Linear_regression_model.pkl','rb'))
 
 
 
