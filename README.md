@@ -15,7 +15,7 @@ Optimizing Product Assortment: By analyzing customer preferences and shopping pa
 Personalizing Shopping Experience: With Big Data, Walmart analyzes the shopping preferences of the customers to develop a consistent and delightful shopping experience.
 and much more…
 
-# column meaning
+# column meaning:
 **Store** : This column represents the store number or identifier. It is numerical and each number corresponds to a specific store.
 
 **Date**: Indicates the date of data collection or event, formatted as day-month-year.
@@ -32,7 +32,7 @@ and much more…
 
 **Unemployment**: This column shows unemployment rates, represented as decimals to provide detailed information.
 
- # OBSERVATION
+# OBSERVATION:
 -2011 has recorded highest number of sales then followed by 2010 and 2012.
 
 -More than 50% of sales happen on Thursday.
